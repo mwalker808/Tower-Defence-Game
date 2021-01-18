@@ -1,28 +1,148 @@
-﻿  GameEngine.cpp
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(138): warning C4018: '>=': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(150): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(160): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(406): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(416): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(425): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(434): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(444): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(454): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(464): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(474): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(484): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(682): warning C4018: '>=': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(724): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(752): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(766): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(775): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(809): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(818): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(823): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(833): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(972): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(997): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(1011): warning C4018: '<': signed/unsigned mismatch
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(1084): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(1085): warning C4018: '<': signed/unsigned mismatch
-  Engine.vcxproj -> C:\Users\walke\Desktop\Tower Defence Game\Debug\Engine.exe
+﻿  AnimatedSprite.cpp
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\animatedsprite.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\animatedsprite.cpp(270): warning C4101: 'ex': unreferenced local variable
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\animatedsprite.cpp(309): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\animatedsprite.cpp(321): warning C4018: '<': signed/unsigned mismatch
+  Button.cpp
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(231): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(249): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(264): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(313): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(344): warning C4018: '>': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(385): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(448): warning C4018: '<': signed/unsigned mismatch
+  Console.cpp
+  Enemy.cpp
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\enemy.cpp(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\enemy.cpp(203): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\enemy.cpp(252): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\enemy.cpp(256): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\enemy.cpp(260): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\enemy.cpp(264): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\enemy.cpp(290): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\enemy.cpp(297): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\enemy.cpp(303): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\enemy.cpp(310): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  GameEngine.cpp
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(138): warning C4018: '>=': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(406): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(416): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(425): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(434): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(444): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(454): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(464): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(474): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(484): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(682): warning C4018: '>=': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(724): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(752): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(766): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(775): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(809): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(818): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(823): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(833): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(972): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(997): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(1011): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(1084): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\gameengine.cpp(1085): warning C4018: '<': signed/unsigned mismatch
+  HitBox.cpp
+  Interaction.cpp
+  Interface.cpp
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\interface.cpp(168): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\interface.cpp(169): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\interface.cpp(172): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\interface.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\interface.cpp(253): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\interface.cpp(271): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\interface.cpp(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\interface.cpp(368): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\interface.cpp(426): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\interface.cpp(446): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\interface.cpp(456): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\interface.cpp(478): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\interface.cpp(519): warning C4018: '<': signed/unsigned mismatch
+  Lightning.cpp
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\lightning.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\lightning.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\lightning.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\lightning.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\lightning.cpp(187): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\lightning.cpp(220): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\lightning.cpp(222): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\lightning.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\lightning.cpp(260): warning C4018: '<': signed/unsigned mismatch
+  LightningStorm.cpp
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\lightningstorm.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\lightningstorm.cpp(66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Line.cpp
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\line.cpp(18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\line.cpp(43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\line.cpp(86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\line.cpp(87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\line.cpp(103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MainPlayer.cpp
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\mainplayer.cpp(122): warning C4018: '<': signed/unsigned mismatch
+  Map.cpp
+  Menu.cpp
+  Player.cpp
+  Projectile.cpp
+  Rectangle.cpp
+  Source.cpp
+  Sprite.cpp
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\sprite.cpp(269): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Text.cpp
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\text.cpp(21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\button.cpp(352): warning C4715: 'Button::isButtonOn': not all control paths return a value
+  Compiling...
+  Tower.cpp
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(136): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(142): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(143): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(232): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(249): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(327): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(332): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(340): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(400): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(404): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(441): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(481): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(485): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(509): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(516): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(543): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(559): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(560): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(575): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(582): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(588): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(592): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(597): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(601): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(609): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(615): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(627): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(701): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(756): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(783): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\tower.cpp(809): warning C4018: '<': signed/unsigned mismatch
+  Utility.cpp
+  Generating Code...
+c:\users\walke\onedrive\documents\github\tower-defence-game\engine\utility.cpp(103): warning C4715: 'Utility::createWindow': not all control paths return a value
+  Engine.vcxproj -> C:\Users\walke\OneDrive\Documents\GitHub\Tower-Defence-Game\Debug\Engine.exe
