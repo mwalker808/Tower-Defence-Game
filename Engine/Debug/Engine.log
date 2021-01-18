@@ -1,0 +1,28 @@
+﻿  GameEngine.cpp
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(138): warning C4018: '>=': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(406): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(416): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(425): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(434): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(444): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(454): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(464): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(474): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(484): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(682): warning C4018: '>=': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(724): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(752): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(766): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(775): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(809): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(818): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(823): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(833): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(972): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(997): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(1011): warning C4018: '<': signed/unsigned mismatch
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(1084): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\walke\desktop\tower defence game\engine\gameengine.cpp(1085): warning C4018: '<': signed/unsigned mismatch
+  Engine.vcxproj -> C:\Users\walke\Desktop\Tower Defence Game\Debug\Engine.exe
